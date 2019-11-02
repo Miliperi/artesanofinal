@@ -1,3 +1,8 @@
+.contenedor{
+  width: 100%;
+  margin: 0 auto;
+  overflow: hidden;
+}
 body {
   background-color: white;
   margin: 0px;
@@ -59,7 +64,7 @@ a {
   font-family: "Times New Roman", Georgia, Serif;
   font-size: 16px;
   text-decoration: none;
-  color: #fff !important; }
+  color: #737373 !important; }
 
 a:hover {
   color: #820022 !important; }
@@ -93,7 +98,7 @@ button {
   width: 100%;
   height: 15px;
   padding: 5px 10px 40px 10px;
-  background-color: #D9D1CC;
+  background-color: #F2F2F2;
   text-align: center; }
 
 #menu ul li {
@@ -105,7 +110,7 @@ button {
 #img2 {
   width: 100%;
   height: 450px;
-  background-image: url(imagen2.jpg);
+  background-image: url(portada.jpg);
   background-size: cover;
   background-position: center center; }
 
@@ -267,3 +272,4 @@ button {
 .pie {
   color: grey;
   text-align: center; }
+
